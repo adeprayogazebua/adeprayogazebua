@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![banner_ade_prayoga](github-header-banner.png)
 <!--
 **adeprayogazebua/adeprayogazebua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
