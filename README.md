@@ -17,8 +17,8 @@ An undergraduate Computer Science / IT student who enjoys solving logic puzzles 
 - **Data Science:** Regular Expressions (Regex), Pandas, Jupyter Notebooks
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeprayogazebua&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adeprayogazebua&layout=compact&theme=radical)
 
 ---
 
