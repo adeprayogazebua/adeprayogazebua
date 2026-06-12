@@ -1,17 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Ade Prayoga Zebua
 
-![banner_ade_prayoga](github-header-banner.png)
-<!--
-**adeprayogazebua/adeprayogazebua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An undergraduate Computer Science / IT student who enjoys solving logic puzzles through code, automating system tasks, and exploring data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🏫 Studying Information Technology / Computer Science.
+- 🐧 Linux & Sysadmin enthusiast (currently on the path to Red Hat certification).
+- 🐍 Love using Python for anything from simple automation scripts to data manipulation.
+- 📝 Big fan of clean code and Spec-Driven Development (SDD).
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, [Java / C++ / etc.]
+- **OS & Admin:** Red Hat Enterprise Linux (RHEL), Bash Scripting
+- **Dev Tools:** Git, VS Code, [Kiro / Cursor / AI tools]
+- **Data Science:** Regular Expressions (Regex), Pandas, Jupyter Notebooks
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical)
+
+---
+
+"Talk is cheap. Show me the code." – Linus Torvalds
