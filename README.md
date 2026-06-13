@@ -22,4 +22,4 @@ An undergraduate Computer Science / IT student who enjoys solving logic puzzles 
 
 ---
 
-"Talk is cheap. Show me the code." – Linus Torvalds
+"Make it work, make it right, make it fast."— Kent Beck
